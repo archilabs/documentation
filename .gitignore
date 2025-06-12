@@ -9,3 +9,5 @@ _build/
 
 # Dependencies
 odoo
+
+# !website_archilabs_custom/**
