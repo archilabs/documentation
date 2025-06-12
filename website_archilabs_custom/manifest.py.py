@@ -7,4 +7,5 @@
     'data': ['views/layout.xml'],
     'installable': True,
     'application': False,
+
 }
