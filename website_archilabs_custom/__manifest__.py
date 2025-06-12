@@ -1,14 +1,11 @@
 {
-    'name': 'Archilabs SEO & GTM',
-    'license': 'LGPL-3',
-    'category': 'Website',
-    'summary': 'Ajoute la meta description et Google Tag Manager',
+    'name': 'Website Archilabs Custom',
     'version': '1.0',
+    'summary': 'Ajout de SEO et Google Tag Manager',
     'author': 'Archilabs',
+    'category': 'Website',
     'depends': ['website'],
-    'data': [
-        'views/layout.xml',
-    ],
+    'data': ['views/layout.xml'],
     'installable': True,
-    'application': True
+    'application': False
 }
