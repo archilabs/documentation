@@ -1,6 +1,7 @@
 *.pyc
 *.mo
-.*
+
+!.gitignore
 !.gitattributes
 
 # Sphinx build files
