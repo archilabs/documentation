@@ -1,1 +1,0 @@
-# Init file required for Odoo module
